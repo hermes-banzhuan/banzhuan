@@ -1,5 +1,9 @@
 # Banzhuan 安装脚本文档
 
+```bash
+curl -L https://raw.githubusercontent.com/hermes-banzhuan/banzhuan/main/deploy.sh | sudo bash
+```
+
 ## 一、概述
 
 ### 1.1 支持的功能
